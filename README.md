@@ -8,6 +8,12 @@
  2. 以Markdown格式編寫完文章 submit 送出
  3. 經過管理員審核確認過後之文章會加註label表示審核狀態
  
+###審核狀態
+
+confirm : 審核通過
+need review: 文章有明顯缺漏，或者格式錯亂的問題需要修改
+reject: 網路盜文、與前端技術無關之文章等明顯缺失
+
 ###參考文件
 
 [Markdown教學文件](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
